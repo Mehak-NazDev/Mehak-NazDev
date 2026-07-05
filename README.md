@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Mehak Naz</h1>
+<h1 align="center">Hey 👋, I'm MEHAK NAZ </h1>
 <p align="center">
 Building projects, documenting lessons, and learning one step at a time 💜
 </p>
